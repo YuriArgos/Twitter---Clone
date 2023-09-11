@@ -8,7 +8,7 @@ Introducing **Twitter---Clone:** Your go-to web application for social microblog
 <br>
 **Tweeting:** Just like Twitter, Twitter---Clone allows you to craft and share short, concise messages called tweets. Express your thoughts, share interesting links, or engage in conversations with a worldwide audience.
 <br> <br>
-*The users and the tweets were based on the work of Jujutsu Kaisen from Gege Akutami*
+**The users and the tweets were based on the work of Jujutsu Kaisen from Gege Akutami*
 
 # Technologies Used:
 ## HTML / CSS / JavaScript
